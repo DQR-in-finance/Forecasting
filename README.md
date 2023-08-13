@@ -1,2 +1,2 @@
 # Forecasting
-#MPT
+# Modern Portfolio Theory
